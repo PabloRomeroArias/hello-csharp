@@ -1,0 +1,136 @@
+# Palabras reservadas
+
+Como ya sabemos, no podemos hacer uso de una palabra reservada como nombre de una variable ni constante
+
+```csharp
+int public = 4; // esto da error
+```
+
+A continuación se muestran las tablas con las palabras reservadas de **C#**
+
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="4">Palabras Reservadas de C#</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>abstract</td>
+            <td>as</td>
+            <td>base</td>
+            <td>bool</td>
+        </tr>
+        <tr>
+            <td>break</td>
+            <td>byte</td>
+            <td>case</td>
+            <td>catch</td>
+        </tr>
+        <tr>
+            <td>char</td>
+            <td>checked</td>
+            <td>class</td>
+            <td>const</td>
+        </tr>
+        <tr>
+            <td>continue</td>
+            <td>decimal</td>
+            <td>default</td>
+            <td>delegate</td>
+        </tr>
+        <tr>
+            <td>do</td>
+            <td>double</td>
+            <td>else</td>
+            <td>enum</td>
+        </tr>
+        <tr>
+            <td>event</td>
+            <td>explicit</td>
+            <td>extern</td>
+            <td>false</td>
+        </tr>
+        <tr>
+            <td>finally</td>
+            <td>fixed</td>
+            <td>float</td>
+            <td>for</td>
+        </tr>
+        <tr>
+            <td>foreach</td>
+            <td>goto</td>
+            <td>if</td>
+            <td>implicit</td>
+        </tr>
+        <tr>
+            <td>in</td>
+            <td>int</td>
+            <td>interface</td>
+            <td>internal</td>
+        </tr>
+        <tr>
+            <td>is</td>
+            <td>lock</td>
+            <td>long</td>
+            <td>namespace</td>
+        </tr>
+        <tr>
+            <td>new</td>
+            <td>null</td>
+            <td>object</td>
+            <td>operator</td>
+        </tr>
+        <tr>
+            <td>out</td>
+            <td>override</td>
+            <td>params</td>
+            <td>private</td>
+        </tr>
+        <tr>
+            <td>protected</td>
+            <td>public</td>
+            <td>readonly</td>
+            <td>ref</td>
+        </tr>
+        <tr>
+            <td>return</td>
+            <td>sbyte</td>
+            <td>sealed</td>
+            <td>short</td>
+        </tr>
+        <tr>
+            <td>sizeof</td>
+            <td>stackalloc</td>
+            <td>static</td>
+            <td>string</td>
+        </tr>
+        <tr>
+            <td>struct</td>
+            <td>switch</td>
+            <td>this</td>
+            <td>throw</td>
+        </tr>
+        <tr>
+            <td>true</td>
+            <td>try</td>
+            <td>typeof</td>
+            <td>uint</td>
+        </tr>
+        <tr>
+            <td>ulong</td>
+            <td>unchecked</td>
+            <td>unsafe</td>
+            <td>ushort</td>
+        </tr>
+        <tr>
+            <td>using</td>
+            <td>virtual</td>
+            <td>void</td>
+            <td>volatile</td>
+        </tr>
+        <tr>
+            <td colspan="4">while</td>
+        </tr>
+    </tbody>
+</table>
